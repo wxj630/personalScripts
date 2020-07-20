@@ -1,4 +1,5 @@
 #ignore these files
 *.dll
+*.pyc
 runtime/*
 venv/*
